@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TimeSupervisorKotlinEdition</string>
+    <string name="TheBeginningOfTheDay">The Beginning Of The Day(HH:MM)</string>
+    <string name="TheEndingOfTheDay">The Ending Of The Day(HH:MM)</string>
+    <string name="Date">Date(DD-MM-YYYY)</string>
+    <string name="WeekNumber">Week Number</string>
+    <string name="EmptyWeek">Week empty</string>
+</resources>
