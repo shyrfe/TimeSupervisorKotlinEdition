@@ -234,9 +234,9 @@ class MainActivity : AppCompatActivity() {
             addRecord(beginningOfTheDay,endingOfTheDay,date,weeknumber);
         }
         else{
-            Log.d("Validate","Date: " + checkDate(date).toString());
-            Log.d("Validate","Beginning: " + checkTime(beginningOfTheDay).toString());
-            Log.d("Validate","Ending: " + checkTime(endingOfTheDay).toString());
+            Log.d("Validate","Date: ${checkDate(date).toString()}");
+            Log.d("Validate","Beginning: ${checkTime(beginningOfTheDay).toString()}");
+            Log.d("Validate","Ending: ${checkTime(endingOfTheDay).toString()}");
             Log.d("Validate","Input data are not valid");
         }
 
